@@ -1,19 +1,10 @@
-- 👋 Hi, I’m @Tomk2d
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Tomk2d/Tomk2d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->### 👋 반갑습니다! 👋
-####   끊임없이 탐구하여 최적의 인프라를 설계하고자 하는 예비 시스템 엔지니어 흥봇의 깃허브 입니다
+### 👋 Welcome! 👋
+####   신기술의 활용으로 더 나은 미래를 개발하는 신의진 입니다
 
 ***
 
 #### 🛠 Main Tech Stack
-<img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"></a> 
 <img src="https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=centOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>
