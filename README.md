@@ -19,4 +19,4 @@
 ![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-000000?style=flat&logo=intellijidea&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
 
-![Tomk2d's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomk2d&theme=dark&show_icons=true)
+
