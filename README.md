@@ -5,7 +5,7 @@
 
 #### 🛠 Main Tech Stack
 <img src="https://img.shields.io/badge/Spring-007396?style=flat&logo=Spring&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"></a> 
+<img src="https://img.shields.io/badge/SpringBoot-007396?style=flat&logo=Spring Boot&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=centOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>
  
