@@ -4,7 +4,7 @@
 ***
 
 #### 🛠 Main Tech Stack
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"></a> 
 <img src="https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=centOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>
