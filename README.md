@@ -12,7 +12,7 @@
  
 #### 🔧 Sub Tech Stack
 <img src="https://img.shields.io/badge/MySQL Idea-4479A1?style=flat&logo=MySQL&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a> 
              
