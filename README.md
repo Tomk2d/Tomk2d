@@ -11,10 +11,10 @@
 
  
 #### 🔧 Sub Tech Stack
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Intellij Idea-EE4C2C?style=flat&logo=intellijidea&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a> 
              
 #### 💻 Tools
 <img src="https://img.shields.io/badge/vscode-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white"></a>
