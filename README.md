@@ -4,18 +4,17 @@
 ***
 
 #### 🛠 Main Tech Stack
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a> 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 
- 
 #### 🔧 Sub Tech Stack
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/></a> 
-             
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
 #### 💻 Tools
-<img src="https://img.shields.io/badge/vscode-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Intellij Idea-000000?style=flat&logo=intellijidea&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"></a>
+![vscode](https://img.shields.io/badge/vscode-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
+![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-000000?style=flat&logo=intellijidea&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
