@@ -11,13 +11,12 @@
 
  
 #### 🔧 Sub Tech Stack
-<img src="https://img.shields.io/badge/Intellij Idea-EE4C2C?style=flat&logo=intellijidea&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/MySQL Idea-4479A1?style=flat&logo=MySQL&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a> 
              
 #### 💻 Tools
 <img src="https://img.shields.io/badge/vscode-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white"></a>
-<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=whit"></a>
-<img src="https://img.shields.io/badge/VMware-231f20?style=flat-square&logo=VMware&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Intellij Idea-000000?style=flat&logo=intellijidea&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"></a>
