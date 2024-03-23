@@ -10,7 +10,7 @@ _도전하는 과정에서 질문을 던지고, 성취하는 과정에서 답을
 ### 🛠 Main Tech Stack
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js/Express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js/Express-339933?style=flat&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 
