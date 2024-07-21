@@ -14,16 +14,16 @@ _도전하는 과정에서 질문을 던지고, 성취하는 과정에서 답을
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 
-### 🔧 Sub Tech Stack
+### 🔧 DB Tech Stack
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-### 💻 Tools
 
-![vscode](https://img.shields.io/badge/vscode-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
+### 🔨 Sub Tech Stack
+
+![apachekafka](https://img.shields.io/badge/kafka-231F20?style=flat-square&logo=apachekafka%20studio&logoColor=white)
 ![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-000000?style=flat&logo=intellijidea&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
