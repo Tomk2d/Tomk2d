@@ -16,7 +16,7 @@ _도전하는 과정에서 질문을 던지고, 성취하는 과정에서 답을
 
 ### 🔧 Sub Tech Stack
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MySQL&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariaDB-003545?style=flat&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
