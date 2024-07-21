@@ -22,7 +22,7 @@ _도전하는 과정에서 질문을 던지고, 성취하는 과정에서 답을
 
 ### 🔨 Sub Tech Stack
 
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apacheKafka%20studio&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Kafka%20studio&logoColor=white)
 ![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-000000?style=flat&logo=intellijidea&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
