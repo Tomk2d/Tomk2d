@@ -26,8 +26,10 @@ _도전하는 과정에서 질문을 던지고, 성취하는 과정에서 답을
 ![socket](https://img.shields.io/badge/WebSocket/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 <br>
-<br>
 ![AWS EC2](https://img.shields.io/badge/EC2-F24E1E?style=flat-square&logo=AmazonEC2&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white)
+![AWS S3](https://img.shields.io/badge/S3-Bucket-569A31?style=flat-square&logo=AmazonS3&logoColor=white)
+![AWS API gateway](https://img.shields.io/badge/API-Gateway-FF4F8B?style=flat-square&logo=AmazonAPIGateway&logoColor=white)
 
 <br>
 
