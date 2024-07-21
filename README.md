@@ -7,7 +7,7 @@ _도전하는 과정에서 질문을 던지고, 성취하는 과정에서 답을
 <br>
 
 
-### 🛠 Main Tech Stack
+### 🛠 Backend Tech Stack
 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js/Express-339933?style=flat&logo=Node.js&logoColor=white)
@@ -18,6 +18,7 @@ _도전하는 과정에서 질문을 던지고, 성취하는 과정에서 답을
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ### 💻 Tools
