@@ -9,7 +9,7 @@ _도전하는 과정에서 질문을 던지고, 성취하는 과정에서 답을
 
 ### 🛠 Backend Tech Stack
 
-![Spring Boot](https://img.shields.io/badge/Java/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Java/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js/Express-339933?style=flat&logo=Node.js&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/Python/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 
