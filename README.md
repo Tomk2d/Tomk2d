@@ -10,8 +10,8 @@ _도전하는 과정에서 질문을 던지고, 성취하는 과정에서 답을
 ### 🛠 Backend Tech Stack
 
 ![Spring Boot](https://img.shields.io/badge/Java/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js/Express-339933?style=flat&logo=Node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/Python/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![Node.js](https://img.shields.io/badge/JavaScript/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![fastAPI](https://img.shields.io/badge/Python/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
 
 ### 🔧 DB Tech Stack
 
@@ -22,8 +22,9 @@ _도전하는 과정에서 질문을 던지고, 성취하는 과정에서 답을
 
 ### 🔨 Sub Tech Stack
 
+![Langchain](https://img.shields.io/badge/Langchain/OpenAI-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white)
-![socket](https://img.shields.io/badge/WebSocket/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![web socket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 <br>
 ![AWS EC2](https://img.shields.io/badge/EC2-F24E1E?style=flat-square&logo=AmazonEC2&logoColor=white)
