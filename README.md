@@ -1,4 +1,5 @@
-![코딩짱구작은크기](https://github.com/user-attachments/assets/32d3523f-b065-48a1-a664-9f472ea9696e)
+![newGif2](https://github.com/user-attachments/assets/dc099fcf-6447-4270-95ef-ab14c473676d)
+
 
 ### 🛠 Backend Tech Stack
 
