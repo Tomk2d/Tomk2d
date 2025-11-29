@@ -1,13 +1,4 @@
-# 😺 Welcome! 😺                       
-                                
-_도전하는 과정에서 질문을 던지고, 성취하는 과정에서 답을 찾는다_       
-<br>   
-
-#### 문제 상황을 발굴하여 기술적으로 고민하고, 토론하는 것에 흥미를 느낍니다<br> 새로운 지식에 언제나 열려있고, 빠르게 습득하여 적용시킵니다<br>_Next Step_ 을 고민하는 _백엔드 개발자_ 입니다.
-<br>
-
-![코딩짱구](https://github.com/user-attachments/assets/34095e85-f033-4d37-aabe-430ab1e87c99)
-
+![코딩짱구작은크기](https://github.com/user-attachments/assets/32d3523f-b065-48a1-a664-9f472ea9696e)
 
 ### 🛠 Backend Tech Stack
 
@@ -24,7 +15,6 @@ _도전하는 과정에서 질문을 던지고, 성취하는 과정에서 답을
 
 ### 🔨 Sub Tech Stack
 
-![Langchain](https://img.shields.io/badge/Langchain/OpenAI-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white)
 ![web socket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
