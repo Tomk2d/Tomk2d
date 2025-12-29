@@ -5,7 +5,6 @@
 
 ![Spring Boot](https://img.shields.io/badge/Java/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/JavaScript/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-![fastAPI](https://img.shields.io/badge/Python/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
 
 ### 🔧 DB Tech Stack
 
