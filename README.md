@@ -1,5 +1,7 @@
 ![newGif2](https://github.com/user-attachments/assets/dc099fcf-6447-4270-95ef-ab14c473676d)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uijin01)](https://solved.ac/uijin01/)
+
 
 ### 🛠 Backend Tech Stack
 
